@@ -2,6 +2,9 @@
     border: solid salmon;
     height: 500px;
     width:100%;
+    display:flex;
+    justify-content: space-between;
+
 
 
 }
@@ -10,6 +13,8 @@
     border: solid saddlebrown;
     height: 500px;
     width:100%;
+    display:flex;
+    justify-content: space-between;
 
 }
 
@@ -18,12 +23,16 @@
     border: solid yellow;
     height:500px;
     width: 100%;
+    display:flex;
+    justify-content: space-between;
 }
 
 .savingsContainer{
     border: solid teal;
     height:300px;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .dadswhoknowcontainer{
@@ -32,4 +41,21 @@
     width:100%;
 
 
+}
+.toppics{
+    width: 300px;
+    height: 300px;
+}
+.midpics{
+    width: 300px;
+    height: 300px;
+
+}
+.dealspics{
+    width:300px;
+    height:300px;
+}
+.savingspics{
+    width:200px;
+    height:200px;
 }
