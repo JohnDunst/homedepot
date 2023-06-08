@@ -1,0 +1,35 @@
+.topContainer{
+    border: solid salmon;
+    height: 500px;
+    width:100%;
+
+
+}
+
+.secondContainer{
+    border: solid saddlebrown;
+    height: 500px;
+    width:100%;
+
+}
+
+.fathersDayDeals{
+
+    border: solid yellow;
+    height:500px;
+    width: 100%;
+}
+
+.savingsContainer{
+    border: solid teal;
+    height:300px;
+    width: 100%;
+}
+
+.dadswhoknowcontainer{
+    border: solid purple;
+    height: 400px;
+    width:100%;
+
+
+}
