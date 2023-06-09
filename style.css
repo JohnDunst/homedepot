@@ -205,18 +205,27 @@ body {
     width: 100%;
     display: flex;
 }
+.threedotsContainer{
+    height:80px;
+    width: 80px;
+    /**border:solid tan;**/
+    padding-left: 47%;
+}
 .topContainer{
    /** border: solid salmon; **/
     height: 400px;
     width:100%;
     display:flex;
     justify-content: space-between;
-
-
-
 }
-.firstimg{
+/**.firstimg.secimg.thirdimg.forthimg{
     width: 25%;
+    justify-content: space-evenly;
+}
+**/
+.firstimg{
+    text-align: left;
+    text-size-adjust: 12px;
 }
 
 .secondContainer{
