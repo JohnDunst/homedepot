@@ -206,7 +206,7 @@ body {
     display: flex;
 }
 .topContainer{
-    border: solid salmon;
+   /** border: solid salmon; **/
     height: 400px;
     width:100%;
     display:flex;
@@ -220,7 +220,7 @@ body {
 }
 
 .secondContainer{
-    border: solid saddlebrown;
+  /**  border: solid saddlebrown; **/
     height: 400px;
     width:100%;
     display:flex;
@@ -230,7 +230,7 @@ body {
 
 .fathersDayDeals{
 
-    border: solid yellow;
+   /** border: solid yellow;**/
     height:400px;
     width: 100%;
     display:flex;
@@ -238,7 +238,7 @@ body {
 }
 
 .savingsContainer{
-    border: solid teal;
+  /**  border: solid teal;**/
     height:250px;
     width: 100%;
     display: flex;
@@ -246,7 +246,7 @@ body {
 }
 
 .dadswhoknowcontainer{
-    border: solid purple;
+  /**  border: solid purple;**/
     height: 400px;
     width:100%;
 
