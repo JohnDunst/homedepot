@@ -1,3 +1,154 @@
+body {
+    margin: 0;
+    font-family: helvetica-neue,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #f5f5f5;
+}
+
+.topHeader {
+    background-color: #F96302;   
+    text-align: center;
+    color: white;
+    height: 32px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.topHeaderText {
+    padding-top: 2px;
+}
+
+.mainHeaderWrapper {
+    background-color: white;
+    height: 139px;
+    box-shadow: 0 6px 6px -4px lightgray;
+    display: flex;
+    flex-direction: column;
+}
+
+.centerMainHeaderWrapper {
+    background-color: white;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topHeaderLinksWrapper {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 55%;
+    height: 25px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topHeaderLinks {
+    font-size: 11px;
+    color: #333333;
+    margin-right: 21px;
+}
+
+.headerLeft {
+    display: flex;
+    border: solid black;
+    height: 64px;
+}
+
+.homeDepotLogoImg {
+    height: 64px;
+    width: 64px;
+}
+
+.yourShoppingwrapper {
+    margin-left: 20px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    vertical-align: bottom;
+    margin-top: auto;
+    width: 150px;
+}
+
+.chevDown {
+    height: 7.5px;
+    width: 12px;
+}
+
+.greenDot {
+    height: 11px;
+    width: 11px;
+}
+
+.yourShopping {
+    font-size: 14px;
+}
+
+.location {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.open {
+    color: green;
+    font-size: 14px;
+}
+
+.openText {
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.deliveringWrapper {
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid black;
+    width: 100px;
+    text-align: center;
+
+}
+
+.headerMiddle {
+    width: 60%;
+}
+
+.searchbarWrapper {
+    display: flex;
+}
+
+.input {
+    width: 688px;
+    height: 34px;
+    border: 1px solid black;
+}
+
+.searchIcon {
+    background-color: #F96302;
+    height: 36px;
+    width: 30px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.searchIconImg {
+    height: 30px;
+    width:30px;
+}
+
+
+.headerRight {
+    width: 20%;
+} 
+
+
 .topContainer{
     border: solid salmon;
     height: 500px;
@@ -7,6 +158,9 @@
 
 
 
+}
+.firstimg{
+    width: 25%;
 }
 
 .secondContainer{
