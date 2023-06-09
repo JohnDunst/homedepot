@@ -218,11 +218,11 @@ body {
     display:flex;
     justify-content: space-between;
 }
-/**.firstimg.secimg.thirdimg.forthimg{
-    width: 25%;
+.firstimg.secimg.thirdimg.forthimg{
+    width:640px;
     justify-content: space-evenly;
 }
-**/
+
 .firstimg{
     text-align: left;
     text-size-adjust: 12px;
@@ -244,12 +244,13 @@ body {
     width: 100%;
     display:flex;
     justify-content: space-between;
+
 }
 
 .savingsContainer{
   /**  border: solid teal;**/
     height:250px;
-    width: 100%;
+    width: 1440px;
     display: flex;
     justify-content: space-between;
 }
@@ -277,4 +278,7 @@ body {
 .savingspics{
     width:200px;
     height:200px;
+}
+h1{
+   margin-bottom : 5px;
 }
