@@ -195,10 +195,13 @@ body {
 .bottomHeaderLinks {
     font-size: 14px;
 }
-
+.addcontainer{
+    width: 100%;
+    display: flex;
+}
 .topContainer{
     border: solid salmon;
-    height: 500px;
+    height: 400px;
     width:100%;
     display:flex;
     justify-content: space-between;
@@ -212,7 +215,7 @@ body {
 
 .secondContainer{
     border: solid saddlebrown;
-    height: 500px;
+    height: 400px;
     width:100%;
     display:flex;
     justify-content: space-between;
@@ -222,7 +225,7 @@ body {
 .fathersDayDeals{
 
     border: solid yellow;
-    height:500px;
+    height:400px;
     width: 100%;
     display:flex;
     justify-content: space-between;
@@ -230,7 +233,7 @@ body {
 
 .savingsContainer{
     border: solid teal;
-    height:300px;
+    height:250px;
     width: 100%;
     display: flex;
     justify-content: space-between;
